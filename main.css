@@ -1,0 +1,21 @@
+body {
+    background: url('images/forest.jpg') no-repeat center center fixed; 
+
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-backgorund-size: cover; 
+    background-size: cover;
+}
+
+#output {
+    margin-top: 50%;
+    padding-top: 200px;
+}
+
+.card-img-top {
+    width: 100%; 
+    height: 25vw; 
+    object-fit: cover;
+    background-color: transparent;
+    border-radius: 20%;
+}
